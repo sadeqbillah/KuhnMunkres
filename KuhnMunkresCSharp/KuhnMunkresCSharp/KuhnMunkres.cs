@@ -1,15 +1,15 @@
 ///////////////////////////////////////////////////////////////////////////////
-// KuhnMunkres.cs: Implementation file for Class HungarianAlgorithm.
+// KuhnMunkres.cs: Implementation file for Kuhn-Munkres/HungarianAlgorithm.
 // 
-// This is a C# implementation  of a hungarian algorithm implementation by Intel.
+// This is a C# version of the hungarian algorithm implementation by Intel.
 // Intel OpenVINO Pedestrian Detection Sample 
 // https://docs.openvino.ai/latest/omz_demos_pedestrian_tracker_demo_cpp.html
 // Original CPP source file is located at[]
 // The original implementation can be found here:
 // https://github.com/openvinotoolkit/open_model_zoo/tree/master/demos/common/cpp/utils
 // 
-// Meer Sadeq Billah, sadeqbillah@gmail.com, 2021
-// 
+// C# Author: Meer Sadeq Billah, sadeqbillah@gmail.com, 2021
+//
 using System;
 using System.Drawing;
 using System.Linq;
