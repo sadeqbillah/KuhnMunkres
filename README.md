@@ -12,5 +12,5 @@ Original CPP source file is located at [https://github.com/openvinotoolkit/open_
 **Development Environment:** Visual Studio 2015 Community Edition<br/>
 **References:** System.Drawing, System, System.Linq<br/>
 
-Input: 2 Dimensional Array of Distance between each pairs (x, y) of candidate data <br/>
-Output: 1 Dimensional Array of indexes of matching (x, y)  
+**Input:** 2 Dimensional Array of Distance between each pairs (x, y) of candidate data <br/>
+**Output:** 1 Dimensional Array of indexes of matching (x, y)  
