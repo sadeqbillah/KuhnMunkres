@@ -6,3 +6,6 @@ The Hungarian method is a combinatorial optimization algorithm that solves the a
 This is a ported version from Intel OpenVINO Pedestrian Detection Sample [https://docs.openvino.ai/latest/omz_demos_pedestrian_tracker_demo_cpp.html] 
 
 Original CPP source file is located at [https://github.com/openvinotoolkit/open_model_zoo/tree/master/demos/common/cpp/utils]
+
+**Development Environment:** Visual Studio 2015 Community Edition
+**References:** System.Drawing, System, System.Linq
